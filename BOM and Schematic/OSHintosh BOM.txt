@@ -1,0 +1,261 @@
+Partlist
+
+Exported from OSHintosh v23.sch at 20/Mar/26 10:36
+
+EAGLE Version 9.7.0 Copyright (c) 1988-2026 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value                Device                       Package                      Library                 Sheet
+
+BATT1                         BATTERY-20MM_PTH             BATTCOM_20MM_PTH             SparkFun-Batteries      1
+C1       100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C2       100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C3       100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C4       100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C5       100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C6       100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C7       470p 50V             470P_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C8       1n 50V               1N_TH_CAP                    CAP_5.08MM_PITCH             Capacitors TH           1
+C9       100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C10      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C11      220p 50V             220P_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C12      470p 50V             470P_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C13      470p 50V             470P_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C14      2u2 50V              2U2_TH_ELEC_CAPVERTICAL      CAP_ELECTROLYTIC             Capacitors TH           1
+C15      1u 50V               1U_TH_ELEC_CAPVERTICAL       CAP_ELECTROLYTIC             Capacitors TH           1
+C16      1n 50V               1N_TH_CAP                    CAP_5.08MM_PITCH             Capacitors TH           1
+C17      1n 50V               1N_TH_CAP                    CAP_5.08MM_PITCH             Capacitors TH           1
+C18      4u7 50V              4U7_TH_ELEC_CAPVERTICAL      CAP_ELECTROLYTIC             Capacitors TH           1
+C19      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C20      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C21      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C22      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C23      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C24      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C25      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C26      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C27      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C28      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C29      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C30      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C31      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C32      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C33      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C34      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C35      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C36      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C37      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C38      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C39      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C40      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C41      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C42      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C43      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C44      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C45      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C46      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C47      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C48      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C49      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C50      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C51      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C52      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C53      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C54      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C55      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C56      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C57      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C58      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C59      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C60      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C61      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C62      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C63      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C64      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C65      100n 50V             100N_TH_CAP                  CAP_5.08MM_PITCH             Capacitors TH           1
+C66      33p                  33P_TH_CAP                   CAP_5.08MM_PITCH             Capacitors TH           1
+C67      33u 16V              33U_TH_ELEC_CAPVERTICAL      CAP_ELECTROLYTIC             Capacitors TH           1
+C68      33p                  33P_TH_CAP                   CAP_5.08MM_PITCH             Capacitors TH           1
+CN1      2way                 PIN_HEADER_2W_VERT_TH        2W_2.54MM_PITCH_VERT_TH      Connectors              1
+CN2                           DB9FEMALE                    DB9                          SparkFun-Connectors     1
+CN3                           DB9FEMALE                    DB9                          SparkFun-Connectors     1
+CN4                           DB9FEMALE                    DB9                          SparkFun-Connectors     1
+CN5      XRJK-S-01-6-4-0-9M2  XRJK-S-01-6-4-0-9M2          XRJK-S-01-6-4-0-9M2          con-xmultiple           1
+CN6      AUDIO_JACK_3.5MM_PTH AUDIO_JACK_3.5MM_PTH         AUDIO-JACK                   SparkFun-Connectors     1
+CN7      V06-1x20-SV-GF-1     PICO_BOARD                   PICO_SOCKET                  uProcessor              1
+CN8      DB15                 DB15                         DB15                         SparkFun-Retired        1
+CN9      ATX24RH              ATX24RH                      ATX24_RIGHT_ANGLE            SparkFun-Connectors     1
+CN10     2way                 PIN_HEADER_2W_VERT_TH        2W_2.54MM_PITCH_VERT_TH      Connectors              1
+CN11     2way                 PIN_HEADER_2W_VERT_TH        2W_2.54MM_PITCH_VERT_TH      Connectors              1
+CN12     RCA                  RCA                          RCA                          SparkFun-Connectors     1
+CN13     V06-1x3-SV-GF-1      PIN_HEADER_3W_VERT_FEMALE_TH 3W_2.54MM_PITCH_VERT_TH      Connectors              1
+CN14     2way                 PIN_HEADER_2W_VERT_TH        2W_2.54MM_PITCH_VERT_TH      Connectors              1
+D1       5V1 Zener            ZENER-DIODEF126-10           F126Z10                      diode                   1
+D2       1N4150               1N4148DO35-7                 DO35-7                       diode                   1
+D3       Red                  5MM_LED_RED                  5MM_TH_VERT_STANDARD         Optoelectronics         1
+D4       1N4004               1N4004                       DO41-10                      adafruit                1
+D5       1N4004               1N4004                       DO41-10                      adafruit                1
+FB1      FB                   FB                           FB                           adafruit                1
+FB2      FB                   FB                           FB                           adafruit                1
+IC1      68000                MC68000P                     DIL64                        micro-mc68000           1
+IC2      TSM                  16V8                         DIL20                        pal                     1
+IC3      LAG                  16V8                         DIL20                        pal                     1
+IC4      LM311N               LM311N                       DIL08                        linear                  1
+IC5      TSG                  16V8                         DIL20                        pal                     1
+IC6      ASG                  16V8                         DIL20                        pal                     1
+IC7      BMU0                 16V8                         DIL20                        pal                     1
+IC8      BMU1                 16L8                         DIL20                        pal                     1
+IC9      74LS244N             74LS244N                     DIL20                        74xx-eu                 1
+IC10     74LS244N             74LS244N                     DIL20                        74xx-eu                 1
+IC11     Z85C30               Z85C30                       DIP40                        ICs                     1
+IC12     74LS257N             74LS257N                     DIL16                        74xx-eu                 1
+IC13     74LS257N             74LS257N                     DIL16                        74xx-eu                 1
+IC14     74LS253N             74LS253N                     DIL16                        74xx-eu                 1
+IC15     AM26LS30             AM26LS30                     DIP16                        ICs                     1
+IC16     74LS393N             74LS393N                     DIL14                        74xx-eu                 1
+IC17     74LS393N             74LS393N                     DIL14                        74xx-eu                 1
+IC18     74LS253N             74LS253N                     DIL16                        74xx-eu                 1
+IC19     74LS253N             74LS253N                     DIL16                        74xx-eu                 1
+IC20     74LS253N             74LS253N                     DIL16                        74xx-eu                 1
+IC21     74LS253N             74LS253N                     DIL16                        74xx-eu                 1
+IC22     AM26LS32             AM26LS32                     DIP16                        ICs                     1
+IC23     74LS166N             74LS166N                     DIL16                        74xx-eu                 1
+IC24     74LS166N             74LS166N                     DIL16                        74xx-eu                 1
+IC25     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC26     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC27     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC28     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC29     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC30     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC31     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC32     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC33     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC34     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC35     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC36     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC37     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC38     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC39     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC40     RAM                  41256C/D                     DIL16                        memory-nec              1
+IC41     SST39SF040APH        SST39SF040APH                DIL32                        memory-sst              1
+IC42     SST39SF040APH        SST39SF040APH                DIL32                        memory-sst              1
+IC43     TL072P               TL072P                       DIL08                        linear                  1
+IC44     4016N                4016N                        DIL14                        40xx                    1
+IC45     74LS04N              74LS04N                      DIL14                        74xx-eu                 1
+IC46     6522                 G65SC22P                     DIP-40                       65XXX                   1
+IC47     ATTINY85             ATTINY45TINY85-20-DIP        DIP08_MCU                    SparkFun-Retired        1
+IC48     74LS244N             74LS244N                     DIL20                        74xx-eu                 1
+IC49     74LS02N              74LS02N                      DIL14                        74xx-us                 1
+IC50     74LS161N             74LS161N                     DIL16                        74ttl-din               1
+IC51     74LS161N             74LS161N                     DIL16                        74ttl-din               1
+OSC1     15.6672MHz           XO-14                        DIL14S                       crystal                 1
+OSC2     32.768kHz            CRYSTAL-32.768KHZPTH-2X6     CRYSTAL-PTH-2X6-CYL          SparkFun-Clocks         1
+Q1       2N3906               2N3906                       TO92                         transistor-pnp          1
+Q2       2N3904               2N3904                       TO92D                        transistor-small-signal 1
+R1       470R                 470R_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R2       4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R3       6k8                  6K8_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R4       47k                  47K_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R5       1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R6       47k                  47K_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R7       68k                  68K_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R8       150k                 150K_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R9       470k                 470K_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R10      470k                 470K_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R11      200k                 100K_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R12      150R                 150R_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R13      27R                  27R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R14      4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R15      4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R16      4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R17      4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R18      4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R19      4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R20      4k7                  4K7_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R21      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R22      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R23      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R24      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R25      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R26      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R27      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R28      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R29      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R30      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R31      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R32      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R33      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R34      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R35      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R36      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R37      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R38      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R39      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R40      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R41      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R42      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R43      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R44      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R45      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R46      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R47      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R48      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R49      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R50      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R51      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R52      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R53      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R54      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R55      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R56      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R57      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R58      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R59      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R60      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R61      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R62      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R63      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R64      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R65      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R66      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R67      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R68      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R69      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R70      47k                  47K_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R71      680R                 680R_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R72      75R                  75R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R73      100k                 100K_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R74      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R76      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R77      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R78      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R79      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R80      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R82      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R83      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R84      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R85      2k                   2K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R86      4k02                 4K02_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R87      8k06                 8K06_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R88      499R                 499R_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R89      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R90      2k                   2K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R91      4k02                 4K02_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R92      8k06                 8K06_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R93      499R                 499R_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R94      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R95      2k                   2K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R96      4k02                 4K02_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R97      8k06                 8K06_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R98      499R                 499R_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
+R99      22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R100     22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R101     22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R102     DNF                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R103     DNF                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R104     DNF                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+SW1      DTS-61               DIP_TACT_SWITCH_6X6TH        DIP_DTS_6_TACT_SWITCH_6X6_TH Switches                1
+SW2      DTS-61               DIP_TACT_SWITCH_6X6TH        DIP_DTS_6_TACT_SWITCH_6X6_TH Switches                1
+SW3      SS12D16-GDN5         SS12D16-GDN5                 THRUHOLE90DEGSLIDESW         Switches                1
+VREG1    LM7905               7905T                        TO220H                       linear                  1
