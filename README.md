@@ -26,7 +26,7 @@ VDEV2 has been completed and uploaded. This version should fix all problems with
 
 <img width="960" height="1280" alt="OSHintosh VDEV1 Bodges" src="https://github.com/user-attachments/assets/a0c2d828-421a-4911-9253-bc2f433e80fa" />
 
-# Renders of the Board
+# Renders of the VDEV2 Board
 
 
 <img width="6004" height="4803" alt="OSHintosh Top High Res" src="https://github.com/user-attachments/assets/ea4aeb39-d378-431b-bf56-ed1de330ecb5" />
