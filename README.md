@@ -54,7 +54,7 @@ I say this as the RAM is limited to 512K and there is no mass storage, but it do
 
 # Programmer Requirements:
 A Ti866 or similar programmer is recommended. 
-In total there are nine programmable ICs that need to be programmable. These are:
+In total there are nine programmable ICs that need to be programmed. These are:
 1) 6 x 16V8 GALs
 2) 2 x 39F040 EEPROMs
 3) 1 x ATTINY85 (RTC)
