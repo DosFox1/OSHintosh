@@ -77,7 +77,7 @@ Programming can be completed under minipro with:
 minipro -p GAL16V8* -w (GAL)16V8.jed
 ```
 
-Equations will be uploaded... eventually.<img width="1280" height="960" alt="OSHintosh operating" src="https://github.com/user-attachments/assets/7f629b0b-7202-4aff-b3ec-e2b5da57b712" />
+Equations will be uploaded... eventually.
 
 
 # Programming the Attiny85 with Minipro 
