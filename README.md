@@ -1,11 +1,13 @@
 # OSHintosh
-OSHintosh - an open source hardware 68000 Macintosh. None of the hardware is from Apple!
+OSHintosh - an open source hardware Diskless 68000 Macintosh with a Bootable ROM Disk, using absolutely no hardware from Apple!
 
 
 <img width="960" height="1280" alt="OSHintosh Complete" src="https://github.com/user-attachments/assets/1d2f49e7-35ee-4e27-8aa9-2caed53af253" />
 
 
 <img width="1280" height="960" alt="OSHintosh operating" src="https://github.com/user-attachments/assets/60c03e0a-cb30-4e7e-a6a7-27f8e6af7850" />
+
+<img width="1280" height="960" alt="OSHintosh running" src="https://github.com/user-attachments/assets/2ad65165-4910-4882-999b-1bdb605a676c" />
 
 
 # DISCLAIMER
@@ -33,11 +35,11 @@ VDEV2 has been completed and uploaded. This version should fix all problems with
 <img width="6004" height="4803" alt="OSHintosh Bottom High Res" src="https://github.com/user-attachments/assets/847d08ab-2f7c-43c2-b040-5f411c60d348" />
 
 # So, what is it?
-In a nutshell, the OSHintosh is a Macintosh 512Ke Logic Board - but with the exception that power it provided by an ATX power supply, there is an integrated Pico Scan Converter, as well as a SCHWIM to replace the IWM.
-The system can boot from an integrated original ROMinator, with the option to access further files from a LocalTalk server. 
+In a nutshell, the OSHintosh is a Macintosh 512Ke Logic Board - but with the exception that it boots from a disk baked into the ROM, power it provided by an ATX power supply, there is an integrated Pico Scan Converter, as well as a SCHWIM to replace the IWM.
+The ROM disk is based off the excellent original (ROMinator)[https://www.bigmessowires.com/mac-rom-inator/], and the OSHintosh also has the option to access further files from a LocalTalk server. 
 
-There is no SCSI, No Floppy Drive or any other Mass Storage - it is effectively a ROM Workstation!
-It could be considered to be the spiritual sucessor to the Macintosh XO, which eventually became the Macintosh Classic.
+There is no SCSI, No Floppy Drive or any other Mass Storage - it is effectively a Diskless Workstation!
+It could be considered to be the spiritual sucessor to the Macintosh XO (also known as the Macintosh Classic!)
 
 The board has also been designed in only two layers, which reduces the cost of the board even further.
 JLCPCB suggest that five boards will cost £30 - so only £6 per board. Your mileage may vary. 
