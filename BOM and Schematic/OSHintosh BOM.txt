@@ -227,11 +227,13 @@ R71      680R                 680R_TH_RESISTOR             RESISTORTHRUHOLE     
 R72      75R                  75R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R73      100k                 100K_TH_RESISTOR             RESISTORTHRUHOLE             Resistors TH            1
 R74      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
+R75      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R76      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R77      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R78      3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R79      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R80      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R81      2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R82      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R83      47R                  47R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R84      1k                   1K_TH_RESISTOR               RESISTORTHRUHOLE             Resistors TH            1
@@ -255,6 +257,11 @@ R101     22R                  22R_TH_RESISTOR              RESISTORTHRUHOLE     
 R102     DNF                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R103     DNF                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 R104     DNF                  22R_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R105     2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R106     2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R107     2k2                  2K2_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R108     3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
+R109     3k3                  3K3_TH_RESISTOR              RESISTORTHRUHOLE             Resistors TH            1
 SW1      DTS-61               DIP_TACT_SWITCH_6X6TH        DIP_DTS_6_TACT_SWITCH_6X6_TH Switches                1
 SW2      DTS-61               DIP_TACT_SWITCH_6X6TH        DIP_DTS_6_TACT_SWITCH_6X6_TH Switches                1
 SW3      SS12D16-GDN5         SS12D16-GDN5                 THRUHOLE90DEGSLIDESW         Switches                1
