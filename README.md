@@ -155,17 +155,17 @@ Additionally, the printer port/Appleshare is connector CN3 (middle connector), a
 
 # Acknowledgements:
 Many thanks to:
-AlextheCat
-Bitsavers
-Bolle
-Daniel Kottke
-Demik
-GuruThree 
-HKZ
-Mattmos
-Max1zzz
-Pgreenland
-The PLD Archive
+AlextheCat,
+Bitsavers,
+Bolle,
+Daniel Kottke,
+Demik,
+GuruThree, 
+HKZ,
+Mattmos,
+Max1zzz,
+Pgreenland,
+The PLD Archive,
 
 and many others!
 
