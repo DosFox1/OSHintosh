@@ -13,7 +13,7 @@ OSHintosh - an open source hardware Diskless 68000 Macintosh with a Bootable ROM
 # DISCLAIMER
 The initial VDEV1 board required a large amount of bodges to become operational, these are as follows:
 
-1) Added missing track between pin 1 of the 74ls161s, and pin 8 of the inverter
+1) Added missing track between pin 1 of the 74ls161s, and pin 8 of the 74ls04 inverter
 2) 1x missing 47R resistor TSEN2 from pin 11 of the TSG and ASG to ground
 3) 4x missing 2k2 pull up resistors on address lines A9, A10, A11, A12
 4) 2x missing 3k3 pull up resistors on !AS and !VIAIRQ
@@ -72,7 +72,7 @@ The OSHintosh uses the original quadrature 9 pin mouse, as well as the original 
 # GAL JED Files:
 The GALs were sourced from the PLD archive:
 https://wiki.pldarchive.co.uk/index.php?title=Macintosh_128k/512k/Plus
-For completeness, they have been included here under "OSHintosh GALs". okay they should have been. GitHub ate the JED files >:( 
+For completeness, they have been included here under "OSHintosh GALs". 
 
 Programming can be completed under minipro with:
 ```
@@ -159,6 +159,7 @@ AlextheCat
 Bitsavers
 Bolle
 Daniel Kottke
+Demik
 GuruThree 
 HKZ
 Mattmos
