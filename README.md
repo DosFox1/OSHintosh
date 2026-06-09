@@ -19,7 +19,7 @@ The initial VDEV1 board required a large amount of bodges to become operational,
 4) 2x missing 3k3 pull up resistors on !AS and !VIAIRQ
 5) pin 4 of IC43 should be connected to -12v, not GND
 6) pin 12 of IC18 should be connected to track VA11, not track VA12
-7) pin 8 of IC343 should be connected to +12v, not 5V
+7) pin 8 of IC43 should be connected to +12v, not 5V
 8) errors on silkscreen for R68, R69, R70 and R71 (Schematic and BOM correct, silkscreen incorrect)
 9) errors on silkscreen for R40 and R43 (Schematic and BOM correct, silkscreen incorrect)
 
@@ -72,7 +72,7 @@ The OSHintosh uses the original quadrature 9 pin mouse, as well as the original 
 # GAL JED Files:
 The GALs were sourced from the PLD archive:
 https://wiki.pldarchive.co.uk/index.php?title=Macintosh_128k/512k/Plus
-For completeness, they have been included here under "OSHintosh GALs".
+For completeness, they have been included here under "OSHintosh GALs". okay they should have been. GitHub ate the JED files >:( 
 
 Programming can be completed under minipro with:
 ```
