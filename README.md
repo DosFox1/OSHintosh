@@ -141,8 +141,12 @@ If successful, the OSHintosh should "ping" rather than the usual chime, and when
 # Note regarding AppleShare, Chooser and the OSHintosh Serial Ports
 
 If you are wishing to use appleshare to run programs on the OSHintosh, it is best that you use the OSHintosh Disk.dsk files as a starting point. 
-This is due to the variant of chooser being the version recoveredfrom the Macintosh Classic ROM Disk. Normally, Chooser does not start up on a locked disk, except for the variant that is found on the Macintosh Classic ROM Disk.
-As such, start with the system file as found in OSHintosh Disk.dsk, or OSHintosh Disk 6.0.8.dsk, as this includes this version of appleshare and chooser.
+
+This is as the variant of chooser on this startup disk has been recovered from the Macintosh Classic ROM Disk.
+
+Normally, Chooser does not start up on a locked disk. However, the variant of chooser that is found on the Macintosh Classic ROM Disk does work on locked startup disks!
+
+As such, start with the system file as found in OSHintosh Disk.dsk, or OSHintosh Disk 6.0.8.dsk
 
 Additionally, the printer port/Appleshare is connector CN3 (middle connector), and the Modem connector is CN2 (leftmost connector). 
 
