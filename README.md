@@ -87,15 +87,15 @@ Equations will be uploaded... eventually.
 The ATTINY85 RTC firmware as developed by pgreenland (https://github.com/pgreenland/attinyrtc) can be programmed with a Ti866 under Minipro:
 The following erases the ATTINY85:
 ```
-minipro -p ATTINY85 -E
+minipro -p ATTINY85@DIP8 -E
 ```
 Then, the fuses as defined by the file attiny_RTC.fuses is flashed
 ```
-minipro -p ATTINY85 -c config -w attiny_RTC.fuses -e
+minipro -p ATTINY85@DIP8 -c config -w attiny_RTC.fuses -e
 ```
 Finally, the firmware is flashed to the ATTINY:
 ```
-minipro -p ATTINY85 -e -c code -f ihex -w ATtinyRTC.hex
+minipro -p ATTINY85@DIP8 -e -c code -f ihex -w ATtinyRTC.hex
 ```
 
 # Producing new Rominator Disks with a Minipro 
